@@ -13,12 +13,12 @@ Download the font file from the Assets section of the latest release.
 ## Installation
 
 ### macOS
-1. Download the `.ttf` or `.otf` font file.
+1. Download the `.ttf` font file.
 2. Double-click the downloaded file.
 3. Click **Install Font** to add it to Font Book.
 
 ### Windows
-1. Download the `.ttf` or `.otf` font file.
+1. Download the `.ttf` font file.
 2. Right-click the downloaded file.
 3. Select **Install**.
 
@@ -32,7 +32,7 @@ If you download this font you agree that 'I think about it all the time' is Char
 
 ## 💚 Hidden Characters Guide
 
-The font includes special characters to add a little extra Charli-inspired personality to your text!
+The font includes special characters!
 
 | Type this | Character |
 |---|---|
