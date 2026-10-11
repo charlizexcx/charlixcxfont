@@ -36,9 +36,9 @@ The font includes special characters to add a little extra Charli-inspired perso
 
 | Type this | Character |
 |---|---|
-| `♥` | ♥ Heart |
-| `☺` | ☺ Smiley face |
-| `☻` | ☻ Filled smiley face |
+| `♥` | Heart |
+| `☺` | Smiley face |
+| `☻` | Smiley face |
 
 **How to use them:** Copy the character from the table and paste it wherever you're using the font. If your keyboard doesn't have the character, copying and pasting is the easiest way to use it.
 
