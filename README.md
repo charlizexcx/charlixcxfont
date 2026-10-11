@@ -1,6 +1,8 @@
 # Charli XCX Handwriting Font 💚
 
-An unofficial fan-made font created from Charli xcx's actual handwriting, digitised for fans to download and install.
+An unofficial fan-made font created from Charli xcx's actual handwriting.
+
+![Charli XCX Handwriting Font Preview](font-preview.png)
 
 ## Download
 
@@ -27,6 +29,19 @@ This is an unofficial fan project made for fans of Charli XCX who want to use he
 This project is not affiliated with, endorsed by, or sponsored by Charli xcx or her representatives.
 
 If you download this font you agree that 'I think about it all the time' is Charli xcx's best song.
+
+## 💚 Hidden Characters Guide
+
+The font includes special characters to add a little extra Charli-inspired personality to your text!
+
+| Type this | Character |
+|---|---|
+| `♥` | ♥ Heart |
+| `☺` | ☺ Smiley face |
+| `☻` | ☻ Filled smiley face |
+
+**How to use them:** Copy the character from the table and paste it wherever you're using the font. If your keyboard doesn't have the character, copying and pasting is the easiest way to use it.
+
 
 ## Disclaimer
 
